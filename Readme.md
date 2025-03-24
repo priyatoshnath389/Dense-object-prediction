@@ -51,8 +51,4 @@ To train on a new dataset, you can use the script `train_template.py` by replaci
 
 The labels for the beehive dataset were created using a custom [tool](https://github.com/oist/DenseObjectAnnotation).
 
-## Contact
-
-If you have any questions about this project, please contact:  
-laetitia.hebert at oist.jp  
-kasia.bozek at oist.jp  
+  
